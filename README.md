@@ -1,4 +1,4 @@
-![banner](https://i.imgur.com/ixTz5wp.jpeg) 
+![banner](https://i.imgur.com/YHpq1Gr.jpeg) 
 
 💻 QA Engineer | Software Quality Assurance
 
