@@ -1,22 +1,28 @@
 ![banner](https://i.imgur.com/YHpq1Gr.jpeg) 
+# 👋 ¡Hola! Soy Lizett Pinzon 👩‍💻
 
-💻 QA Engineer | Software Quality Assurance
+## 💡 Un poco sobre mí
 
-¡Hola! Soy una QA Engineer apasionada por el aseguramiento de calidad en software, con experiencia en pruebas manuales y automatizadas. Mi transición a la tecnología proviene de una carrera previa en la industria médica, donde desarrollé habilidades clave como la atención al detalle, la precisión y un fuerte enfoque en control de calidad. Estoy entusiasmada por aplicar estos conocimientos en la ingeniería de calidad de software.
+Soy una **QA Engineer** con experiencia en **pruebas manuales y automatizadas**. Estoy comprometida con la mejora continua y el aseguramiento de calidad en el desarrollo de software. 🛠️
 
-💡 Acerca de mí
+## 🚀 Habilidades Técnicas
+- **Lenguajes de Programación**: Python, SQL
+- **Herramientas**: Selenium, Jira, Postman, Git, Android Studio
+- **Automatización de Pruebas**: Selenium WebDriver, PyTest
+- **Pruebas de API**: Postman
+- **Control de Versiones**: Git & GitHub
+- **Sistemas Operativos**: Linux, Windows
 
-🎓 Graduada en QA Engineering | Bootcamp 2024 🧪 Experiencia en pruebas manuales y automatizadas con Selenium, PyTest y Postman. 📱 Enfoque en pruebas de aplicaciones móviles y web, con un interés especial en mejorar la experiencia del usuario y la funcionalidad de las aplicaciones. 🏥 Experiencia previa en la industria médica: trabajé 9 años como instrumentadora quirúrgica, desarrollando una fuerte ética de trabajo, atención minuciosa y habilidades de revisión. 🎯 Buscando oportunidades para aplicar mi conocimiento y seguir creciendo en el campo de QA Engineering.
+---
 
-🚀 Habilidades Técnicas
+## 🌟 Proyectos Destacados
+- 🚗 **[Urban Routes](https://github.com/tu-usuario/urban-routes)**: Proyecto de automatización de pruebas con Selenium WebDriver para una aplicación de rutas urbanas.
+- 🛴 **[App de Scooters](https://github.com/tu-usuario/app-scooters)**: Pruebas automatizadas para una app de alquiler de scooters eléctricos.
 
-Selenium WebDriver para pruebas automatizadas de aplicaciones web PyTest para la creación de scripts de pruebas automatizadas Postman para pruebas API Jira para gestión de incidencias y seguimiento de proyectos Android Studio para pruebas móviles SQL para consultas y validación de datos
+---
 
-🔧 Herramientas Selenium | PyTest | Postman | Jira | Android Studio | SQL Git | GitHub para control de versiones y colaboración
+¡Gracias por visitar mi perfil! Si te interesa colaborar, no dudes en contactarme.
 
-📈 Proyectos Destacados Urban Routes: Automatización de pruebas para una aplicación de rutas urbanas usando Selenium WebDriver. Sistema de Alquiler de Scooters Eléctricos: Pruebas API y seguimiento de estados de pedidos en una aplicación web. Más proyectos disponibles en mis repositorios.
-
-🌱 Actualmente Configurando mi perfil de GitHub para compartir proyectos de QA. Preparando mi CV y buscando nuevas oportunidades en el campo de QA Engineering. Mejorando mi inglés técnico para poder participar en equipos internacionales.
 
 📫 Contacto
 
