@@ -1,3 +1,5 @@
+![banner](https://i.imgur.com/ixTz5wp.jpeg) 
+
 💻 QA Engineer | Software Quality Assurance
 
 ¡Hola! Soy una QA Engineer apasionada por el aseguramiento de calidad en software, con experiencia en pruebas manuales y automatizadas. Mi transición a la tecnología proviene de una carrera previa en la industria médica, donde desarrollé habilidades clave como la atención al detalle, la precisión y un fuerte enfoque en control de calidad. Estoy entusiasmada por aplicar estos conocimientos en la ingeniería de calidad de software.
