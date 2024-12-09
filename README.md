@@ -1,4 +1,4 @@
-![banner](https://i.imgur.com/YHpq1Gr.jpeg) 
+![banner](https://imgur.com/yRIHF7vjpeg)
 # 👋 ¡Hola! Soy Lizett Pinzon 👩‍💻
 
 ## 💡 Un poco sobre mí
